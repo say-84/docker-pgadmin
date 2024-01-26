@@ -1,8 +1,7 @@
 #!/bin/bash
 clear
 
-# تنسيق الشعار
-echo "
+cat << "EOF"
 (  ___  )                                    (  ____ \
 | (   ) | _                             _    | (    \/                          _ 
 | (___) || |                           | |   | (_____                          | |    /\     
@@ -12,8 +11,9 @@ echo "
 |/     \||_|  |_||_| |_| |_|| |___/ \____|   \_______) \__,_| \__, || |___/ \____|/_/    \_\ .__/| .__/ 
                             \ \__                              __/ |\ \__                  | |   | |  
                             '\___|                            |___/ '\___|                 |_|   |_| 
-"
-sleep 3s
+EOF
+    sleep 6s
+installApps()
 
 # تثبيت التطبيقات
 echo "#######################################################"
@@ -29,4 +29,4 @@ docker-compose up -d
 sleep 5s  # فاصل زمني للتأكد من استكمال عملية البدء
 
 echo "The Ahmed Sayed App has been started successfully."
-echo "    Navigate to your server hostname / IP address on port 8123 "
+echo "    Navigate to your server hostname / IP address on port 8123 
