@@ -85,24 +85,24 @@ you check the logs it will tell you there is an error in the file.
 
 ## Pgadmin 4 screenshots after successful installation.
 
-<img src="screenshots/screenshots/screenshot1.png" width="100%">
+<img src="screenshots/screenshot1.png" width="100%">
 
-<img src="screenshots/screenshots/screenshot2.png" width="100%">
+<img src="screenshots/screenshot2.png" width="100%">
 
-<img src="screenshots/screenshots/screenshot3.png" width="100%">
+<img src="screenshots/screenshot3.png" width="100%">
 
-<img src="screenshots/screenshots/screenshot4.png" width="100%">
+<img src="screenshots/screenshot4.png" width="100%">
 
-<img src="screenshots/screenshots/screenshot5.png" width="100%">
+<img src="screenshots/screenshot5.png" width="100%">
 
-<img src="screenshots/screenshots/screenshot6.png" width="100%">
+<img src="screenshots/screenshot6.png" width="100%">
 
-<img src="screenshots/screenshots/screenshot7.png" width="100%">
+<img src="screenshots/screenshot7.png" width="100%">
 
-<img src="screenshots/screenshots/screenshot8.png" width="100%">
+<img src="screenshots/screenshot8.png" width="100%">
 
-<img src="screenshots/screenshots/screenshot9.png" width="100%">
+<img src="screenshots/screenshot9.png" width="100%">
 
-<img src="screenshots/screenshots/screenshot10.png" width="100%">
+<img src="screenshots/screenshot10.png" width="100%">
 
-<img src="screenshots/screenshots/screenshot11.png" width="100%">
+<img src="screenshots/screenshot11.png" width="100%">
