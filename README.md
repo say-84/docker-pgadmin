@@ -8,6 +8,11 @@ in this README.
 
 It's as a simple as I could make it. It's built on the official image.
 
+# INSTALL
+``` bash
+curl  -L -o install-pgadmin.sh https://raw.githubusercontent.com/say-84/docker-pgadmin/main/install-pgadmin.sh  && chmod +x install-pgadmin.sh && ./install-pgadmin.sh
+```
+
 ## Configure
 
 For web access you need to define a username and password, that is done in the .env file.
@@ -22,8 +27,7 @@ Now edit .env to set username and password.
 Start it up,
 
    docker compose up -d
-   curl -s https://raw.githubusercontent.com/say-84/docker-pgadmin/main/install-pgadmin.sh
-
+  
 Access it on port 8123 via browser. The port is set in the compose.yaml file
 and I chose 8123 totally arbitrarily.
 
