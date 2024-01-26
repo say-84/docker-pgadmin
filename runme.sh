@@ -13,7 +13,7 @@ cat << "EOF"
                             '\___|                            |___/ '\___|                 |_|   |_| 
 EOF
     sleep 6s
-installApps()
+installApps() {
 
 # تثبيت التطبيقات
 echo "#######################################################"
@@ -30,3 +30,4 @@ sleep 5s  # فاصل زمني للتأكد من استكمال عملية الب
 
 echo "The Ahmed Sayed App has been started successfully."
 echo "    Navigate to your server hostname / IP address on port 8123 
+}
