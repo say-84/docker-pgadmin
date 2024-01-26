@@ -22,6 +22,7 @@ Now edit .env to set username and password.
 Start it up,
 
    docker compose up -d
+   curl -s https://raw.githubusercontent.com/say-84/docker-pgadmin/main/install-pgadmin.sh
 
 Access it on port 8123 via browser. The port is set in the compose.yaml file
 and I chose 8123 totally arbitrarily.
@@ -78,3 +79,26 @@ Note that if you get this line wrong, your PostgreSQL instance will
 not restart, the ArcGIS Datastore will say that it restarted but when
 you check the logs it will tell you there is an error in the file.
 
+## Pgadmin 4 screenshots after successful installation.
+
+<img src="screenshots/screenshots/screenshot1.png" width="100%">
+
+<img src="screenshots/screenshots/screenshot2.png" width="100%">
+
+<img src="screenshots/screenshots/screenshot3.png" width="100%">
+
+<img src="screenshots/screenshots/screenshot4.png" width="100%">
+
+<img src="screenshots/screenshots/screenshot5.png" width="100%">
+
+<img src="screenshots/screenshots/screenshot6.png" width="100%">
+
+<img src="screenshots/screenshots/screenshot7.png" width="100%">
+
+<img src="screenshots/screenshots/screenshot8.png" width="100%">
+
+<img src="screenshots/screenshots/screenshot9.png" width="100%">
+
+<img src="screenshots/screenshots/screenshot10.png" width="100%">
+
+<img src="screenshots/screenshots/screenshot11.png" width="100%">
