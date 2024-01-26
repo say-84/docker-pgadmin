@@ -39,3 +39,4 @@ docker-compose up -d
 sleep 5s  # فاصل زمني للتأكد من استكمال عملية البدء
 
 echo "The Ahmed Sayed App has been started successfully."
+echo "    Navigate to your server hostname / IP address on port 8123 "
