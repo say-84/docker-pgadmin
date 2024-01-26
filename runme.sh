@@ -22,16 +22,6 @@ echo "#######################################################"
 echo ""
 sleep 3s
 
-# التحقق من توفر Docker و Docker Compose
-if ! command -v docker &>/dev/null; then
-    echo "Error: Docker is not installed. Please install Docker first."
-    exit 1
-fi
-
-if ! command -v docker-compose &>/dev/null; then
-    echo "Error: Docker Compose is not installed. Please install Docker Compose first."
-    exit 1
-fi
 
 # تشغيل التطبيق باستخدام Docker Compose
 echo "Starting the Ahmed Sayed App..."
