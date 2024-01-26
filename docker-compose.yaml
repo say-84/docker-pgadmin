@@ -1,6 +1,4 @@
-volumes:
-  pgadmin_data:
-    name: pgadmin_data
+version: '3.7'
 
 services:
   pgadmin:
@@ -21,4 +19,5 @@ services:
 #      NETWORK_ACCESS: internal
 #     LETSENCRYPT_HOST: ${PGADMIN_VIRTUAL_HOST}
 #      LETSENCRYPT_MAIL: ${MY_EMAIL}
-
+volumes:
+  pgadmin_data:
